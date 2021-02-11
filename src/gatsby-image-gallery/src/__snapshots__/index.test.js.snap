@@ -1,0 +1,618 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gallery component Unified image prop that it renders image prop when alt property is used 1`] = `
+<React.Fragment>
+  <styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="001"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image001.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="002"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image002.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="003"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image003.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="004"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image004.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="005"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image005.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+  </styled.div>
+</React.Fragment>
+`;
+
+exports[`Gallery component Unified image prop that it renders image prop when no alt property is used 1`] = `
+<React.Fragment>
+  <styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image001.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image002.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image003.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image004.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image005.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+  </styled.div>
+</React.Fragment>
+`;
+
+exports[`Gallery component Unified image prop that it renders image prop when only in some cases the alt property is used 1`] = `
+<React.Fragment>
+  <styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="001"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image001.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="002"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image002.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image003.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image004.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt="005"
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image005.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+  </styled.div>
+</React.Fragment>
+`;
+
+exports[`Gallery component lightboxOptions props that the Lightbox options are accepted 1`] = `
+<React.Fragment>
+  <styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image001.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image002.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          fluid={
+            Object {
+              "aspectRatio": 1.5,
+              "base64": "string_of_base64",
+              "sizes": "(max-width: 600px) 100vw, 600px",
+              "src": "/thumb/images/image003.jpg",
+              "srcSet": "some srcSet",
+              "srcSetWebp": "some srcSetWebp",
+            }
+          }
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+  </styled.div>
+</React.Fragment>
+`;
+
+exports[`Gallery component that it renders with data in images 1`] = `
+<React.Fragment>
+  <styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+    <styled.div
+      md={25}
+      onClick={[Function]}
+      width={33.333333333333336}
+    >
+      <styled.div
+        margin="0.25rem"
+      >
+        <Image
+          Tag="div"
+          alt=""
+          className=""
+          durationFadeIn={500}
+          fadeIn={true}
+          loading="lazy"
+        />
+      </styled.div>
+    </styled.div>
+  </styled.div>
+</React.Fragment>
+`;
+
+exports[`Gallery component that it renders with empty props 1`] = `
+<React.Fragment>
+  <styled.div />
+</React.Fragment>
+`;
